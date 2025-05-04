@@ -26,6 +26,8 @@ Key responsibilities included:
 - Preparing stack documentation to explain **technical tradeoffs**, including development speed, bundle size, and component extensibility
 - Demonstrating the stack’s **developer experience and flexibility**
 
+- Although this was a short presales phase, I communicated regularly with the product team to clarify interaction requirements and with the sales lead to understand client expectations. The work was agile in nature, using lightweight Jira boards for progress tracking. I used Figma mockups as a visual baseline and took initiative in translating high-level goals into interface behavior. Time management was essential here due to the tight delivery timeline.
+
 ## 🛠️ Tech Stack
 
 ### Framework & Libraries
